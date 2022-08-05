@@ -1,16 +1,16 @@
-### Hi there 👋
+## Olá! Sou o João Pedro
 
-<!--
-**Jobrust/Jobrust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Curso Tecnologia em Banco de Dados
+- 🌱 Estudando Banco de Dados e SQL
+- 😎 Tempo livre para Família e séries
+- 🤞Futuro Analista de Dados
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div>
+
+<a href="https://www.linkedin.com/in/joão-pedro-santos-da-silva-a68765165" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+</div>
 -->
+ 
