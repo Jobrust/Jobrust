@@ -1,9 +1,10 @@
 ## Olá! Sou o João Pedro
 
 - 🔭 Curso Tecnologia em Banco de Dados
-- 🌱 Estudando Banco de Dados e SQL
+- 🌱 Estudando Python e Automação de processos
 - 😎 Tempo livre para Família e séries
-- 🤞Futuro Analista de Dados
+-   $ Trabalho como estagiário em Dados
+- 🤞 Futuro Analista de Dados
 
 ##
 
